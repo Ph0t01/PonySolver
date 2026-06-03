@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">找小马求解器</string>
+    <string name="accessibility_service_description">用于在用户确认后，对已求解的棋盘答案点执行自动双击。不读取窗口内容，不联网，不后台持续操作。</string>
 </resources>
